@@ -1,0 +1,6 @@
+
+jemdoc *.jemdoc
+jemdoc -c mysite.conf index.jemdoc
+git add --all
+git commit -m "new website"
+git push -u origin master
