@@ -19,34 +19,13 @@
 
 == Welcome to Insight Architecture Lab at College of William and Mary 
 
-~~~
-{}{img_left}{docs/img/adwait-diwali.jpg}{Adwait Jog}{220}{250}{}
-==== ~~~Adwait Jog, /Ph.D. (Penn State)/
-==== ~~~[http://www.wm.edu/as/computerscience/faculty/jog_a.php Assistant Professor]
-==== ~~~[http://www.wm.edu/as/computerscience/ Department of Computer Science] 
-==== ~~~[http://www.wm.edu/ The College of William and Mary]
-==== ~~~McGlothlin-Street Hall 111
-==== ~~~Williamsburg, VA 23187 
-==== ~~~{{<img src="docs/img/email_icon.jpg"/ ALIGN=TOP>}}  /*adwait@cs.wm.edu*/, [http://scholar.google.com/citations?hl=en&user=9RgqL8gAAAAJ Google Scholar Profile] \n
-~~~
-\n
-\n
-# ==== ~~~Fall 2016 Office hours: Tues/Thu 4:00PM -- 5:30PM (or by appointment) \n
-
-== About
-I am an assistant professor of computer science 
-at [http://goo.gl/JP9omL The College of William and Mary (W&M)] [http://colleges.usnews.rankingsandreviews.com/best-colleges/college-of-william-and-mary-231624/overall-rankings (US News Rankings)] in Virginia, USA. At W&M, I am leading /*Insight Computer Architecture Lab*/ with the goal to generate insights that would enable
-more energy-efficient, reliable, secure, capable, and useful computing systems \n
-
-/I am currently teaching: [http://adwaitjog.github.io/teach/parallel_com_arch_cs680_s17.html CSCI 680: Parallel Computer Architecture]/
-
 == Recent News
-- Received NSF CRII Award 2017 (sole PI). Thanks NSF!
-- I am serving on the External Review Committee of [https://www.microarch.org/micro50/ MICRO 2017] 
+- Adwait received NSF CRII Award 2017 (sole PI). Thanks NSF!
+- Adwait is serving on the External Review Committee of [https://www.microarch.org/micro50/ MICRO 2017] 
 - Papers accepted in HPCA 2017 and VLSID 2017
 - Papers accepted in IISWC, PACT (2), MICRO, and SIGMETRICS 2016.  
-- Invited to serve on the Program Committees of [http://dsn2017.github.io/ DSN 2017], [http://www.hpdc.org/2017/ HPDC 2017], [http://gpgpu10.athoura.com/ GPGPU 2017], and [http://www.nas-conference.org/NAS-2017/ NAS 2017]. Submit your best work.
-- *\<span style=\"color: red\"\>Looking for self-motivated students to join my research group. Multiple 
+- Adwait is invited to serve on the Program Committees of [http://dsn2017.github.io/ DSN 2017], [http://www.hpdc.org/2017/ HPDC 2017], [http://gpgpu10.athoura.com/ GPGPU 2017], and [http://www.nas-conference.org/NAS-2017/ NAS 2017]. Submit your best work.
+- *\<span style=\"color: red\"\>The lab is looking for self-motivated students to join my research group. Multiple 
 funded positions are available. If you are interested in doing research in the area of computer 
 architecture, please email me with your CV. \<\/span\>*I am especially looking for students who are 
 interested in the areas of GPU computing, 
