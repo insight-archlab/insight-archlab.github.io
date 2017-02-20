@@ -17,27 +17,64 @@
     </div>
 ~~~
 
-== Welcome to Insight Architecture Lab 
+== Welcome to Adwait's Homepage 
 
 ~~~
-{}{img_left}{docs/pics/adwait_micro.jpg}{Adwait Jog}{250}{250}{}
+{}{img_left}{docs/img/adwait-diwali.jpg}{Adwait Jog}{220}{250}{}
 ==== ~~~Adwait Jog, /Ph.D. (Penn State)/
 ==== ~~~[http://www.wm.edu/as/computerscience/faculty/jog_a.php Assistant Professor]
 ==== ~~~[http://www.wm.edu/as/computerscience/ Department of Computer Science] 
 ==== ~~~[http://www.wm.edu/ The College of William and Mary]
 ==== ~~~McGlothlin-Street Hall 111
 ==== ~~~Williamsburg, VA 23187 
-==== ~~~{{<img src="email_icon.jpg"/ ALIGN=TOP>}}  /*adwait@cs.wm.edu*/, [http://scholar.google.com/citations?hl=en&user=9RgqL8gAAAAJ Google Scholar Profile] \n
+==== ~~~{{<img src="docs/img/email_icon.jpg"/ ALIGN=TOP>}}  /*adwait@cs.wm.edu*/, [http://scholar.google.com/citations?hl=en&user=9RgqL8gAAAAJ Google Scholar Profile] \n
 ~~~
 \n
 \n
+# ==== ~~~Fall 2016 Office hours: Tues/Thu 4:00PM -- 5:30PM (or by appointment) \n
+
+== About
+I am an assistant professor of computer science 
+at [http://goo.gl/JP9omL The College of William and Mary (W&M)] [http://colleges.usnews.rankingsandreviews.com/best-colleges/college-of-william-and-mary-231624/overall-rankings (US News Rankings)] in Virginia, USA. At W&M, I am leading /*Insight Computer Architecture Lab*/ with the goal to generate insights that would enable
+more energy-efficient, reliable, secure, capable, and useful computing systems \n
+
+/I am currently teaching: [http://adwaitjog.github.io/teach/parallel_com_arch_cs680_s17.html CSCI 680: Parallel Computer Architecture]/
 
 == Recent News
-- Paper accepted in SIGMETRICS 2016
-- Invited to serve on the Program Committees of [http://ics16.bilkent.edu.tr/ ICS 2016], [http://icpp2016.cs.wcupa.edu/ ICPP 2016], [http://conf.researchr.org/committee/PPoPP-2016/gpgpu-2016-papers-program-committee GPGPU9 2016], [http://www.nas-conference.org/ NAS 2016].
-Submit your best work.
-- *\<span style=\"color: red\"\>Looking for self-motivated students to join the research group. If you are 
-interested in doing research related to any aspects of computer architecture, please send your CV to Adwait Jog
-We are especially interested in the areas related to GPU computing, memory systems, and emerging new architectures. 
-\<\/span\>* \n
+- Received NSF CRII Award 2017 (sole PI). Thanks NSF!
+- I am serving on the External Review Committee of [https://www.microarch.org/micro50/ MICRO 2017] 
+- Papers accepted in HPCA 2017 and VLSID 2017
+- Papers accepted in IISWC, PACT (2), MICRO, and SIGMETRICS 2016.  
+- Invited to serve on the Program Committees of [http://dsn2017.github.io/ DSN 2017], [http://www.hpdc.org/2017/ HPDC 2017], [http://gpgpu10.athoura.com/ GPGPU 2017], and [http://www.nas-conference.org/NAS-2017/ NAS 2017]. Submit your best work.
+- *\<span style=\"color: red\"\>Looking for self-motivated students to join my research group. Multiple 
+funded positions are available. If you are interested in doing research in the area of computer 
+architecture, please email me with your CV. \<\/span\>*I am especially looking for students who are 
+interested in the areas of GPU computing, 
+memory systems, and emerging/non-traditional computing hardware architectures. Students interested in other 
+disciplines such as (but not limited to) biology, economics, machine learning, physics, security, are also welcome to initiate a discussion with me to explore cross-disciplinary research opportunities.
+ \n
 
+== Current Students
+- [http://massemibrahim.github.io/ Mohamed Ibrahim] (Ph.D., since Spring 2016)
+- Haonan Wang (Ph.D., since Spring 2016)
+- Gurunath Kadam (Ph.D., since Fall 2016)
+- Hongyuan Liu (Ph.D., since Spring 2017)
+- Colin Weinshenker (Undergraduate Honor's Thesis, since Fall 2016)
+
+== Graduated Students
+- Fan Luo (M.S., /graduated in Summer 2016/)
+- Robert Risque (Senior's Thesis, /graduated in Spring 2016/)
+
+== Selected Publications ([http://adwaitjog.github.io/pubs.html complete list])
+- *\<span style=\"color: forestgreen\"\>(HPCA 2017)\<\/span\>* [docs/pdf/Controlled-DP-HPCA-2017.pdf /Controlled Kernel Launch for Dynamic Parallelism in GPUs/]
+- *\<span style=\"color: forestgreen\"\>(MICRO 2016)\<\/span\>* [docs/pdf/zorua-micro16.pdf /Zorua: A Holistic Approach to Resource Virtualization in GPUs/]
+- *\<span style=\"color: forestgreen\"\>(PACT 2016)\<\/span\>* [docs/pdf/PIM-PACT2016.pdf /Scheduling Techniques for GPU Architectures with Processing-In-Memory Capabilities/]
+- *\<span style=\"color: forestgreen\"\>(PACT 2016)\<\/span\>* [docs/pdf/uC-States-PACT2016.pdf /μC-States: Fine-grained GPU Datapath Power Management/]
+- *\<span style=\"color: forestgreen\"\>(SIGMETRICS 2016)\<\/span\>* [docs/pdf/Clams-Sigmetrics-2016.pdf /Exploiting Core Criticality for Enhanced GPU Performance/]
+- *\<span style=\"color: forestgreen\"\>(ISCA 2015)\<\/span\>* [docs/pdf/CABA-ISCA-2015.pdf /A Case for Core-Assisted Bottleneck Acceleration in GPUs: Enabling Flexible Data Compression with Assist Warps/]
+- *\<span style=\"color: forestgreen\"\>(MICRO 2014)\<\/span\>* [docs/pdf/CPUGPU-MICRO-2014.pdf /Managing GPU Concurrency in Heterogeneous Architectures/]
+- *\<span style=\"color: forestgreen\"\>(PACT 2014)\<\/span\>* [docs/pdf/TradeCM-PACT-2014.pdf /Trading Cache Hit Rate for Memory Performance/] 
+- *\<span style=\"color: forestgreen\"\>(PACT 2013)\<\/span\>* [docs/pdf/NMNL-PACT-2013.pdf /Neither More Nor Less: Optimizing Thread-level Parallelism for GPGPUs/]
+- *\<span style=\"color: forestgreen\"\>(ISCA 2013)\<\/span\>* [docs/pdf/OSP-ISCA-2013.pdf /Orchestrated Scheduling and Prefetching for GPGPUs/]
+- *\<span style=\"color: forestgreen\"\>(ASPLOS 2013)\<\/span\>* [docs/pdf/OWL-ASPLOS-2013.pdf /OWL: Cooperative Thread Array Aware Scheduling Techniques for Improving GPGPU performance/]
+- *\<span style=\"color: forestgreen\"\>(DAC 2012)\<\/span\>* [docs/pdf/Revive-DAC-2012.pdf /Cache Revive: Architecting Volatile STT-RAM Caches for Enhanced Performance in CMPs/]
