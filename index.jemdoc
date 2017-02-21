@@ -45,9 +45,14 @@ biology, economics, machine learning, physics, security, are also welcome to app
 - Hongyuan Liu (Ph.D., since Spring 2017)
 - Colin Weinshenker (Undergraduate Honor's Thesis, since Fall 2016)
 
-== Graduated Students
+== Alumni
 - Fan Luo (M.S., /graduated in Summer 2016/)
 - Robert Risque (Senior's Thesis, /graduated in Spring 2016/)
+
+== Funding Sources
+- National Science Foundation (Award \# CCF-1657336)
+- NVIDIA Equipment Donation (Tesla K40)
+- Start-up grant from College of William and Mary
 
 == Selected Publications ([http://adwaitjog.github.io/pubs.html complete list])
 - *\<span style=\"color: forestgreen\"\>(HPCA 2017)\<\/span\>* [docs/pdf/Controlled-DP-HPCA-2017.pdf /Controlled Kernel Launch for Dynamic Parallelism in GPUs/]
