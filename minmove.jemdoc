@@ -12,8 +12,8 @@ The goal of achieving exascale performance under stringent power budget is impor
 Any idea/technique that can help in reducing the data movement is appropriate for this workshop.
 Some topics (but not limited to) are:
 
-- Near Data Processing  (e.g., near caches/memory/disks)
-- In-Memory Computing (e.g., in caches/memory/disks)
+- Near Data Processing  (e.g., near caches or memory or storage devices)
+- In-Memory Computing (e.g., in caches or memory or storage devices)
 - Approximate Computing (e.g., load value approximations)
 - Cache/DRAM Locality Optimizations
 - Data Compression Techniques
