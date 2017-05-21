@@ -7,31 +7,32 @@
           <ul class="nav navbar-nav">
             <li class="active"><a href="index.html">Home</a></li>
             <li class="active"><a href="http://adwaitjog.github.io/pubs.html">Publications</a></li>
-            <li class="active"><a href="http://adwaitjog.github.io/talks.html">Talks</a></li>
             <li class="active"><a href="http://adwaitjog.github.io/software.html">Software</a></li>
-            <li class="active"><a href="http://adwaitjog.github.io/teaching.html">Teaching</a></li>
-            <li class="active"><a href="http://adwaitjog.github.io/service.html">Service</a></li>
-            <li class="active"><a href="http://adwaitjog.github.io/misc.html">CV</a></li>
           </ul>
       </div>
     </div>
 ~~~
 
-== Welcome to Insight Architecture Lab at College of William and Mary 
+== Insight Computer Architecture Lab @ William and Mary 
+The high-level goal of the lab is to generate novel insights, which would faciliate
+in building future computing systems more energy-efficient, reliable, secure, capable, 
+and useful.
+
+The lab is looking for self-motivated students. *Multiple 
+funded positions are available*. If you are interested in doing research in the general 
+area of computer architecture, please email [http://adwaitjog.github.io/ Prof. Adwait Jog] 
+with your CV. 
+We are especially looking for students who are interested in the areas of GPU computing, 
+memory systems, and emerging/non-traditional computing hardware (e.g., quantum and DNA) 
+architectures. Students interested in other disciplines such as (but not limited to) 
+biology, economics, machine learning, physics, security, are also welcome to apply.
 
 == Recent News
-- Adwait received NSF CRII Award 2017 (sole PI). Thanks NSF!
+- Received NSF CRII Award 2017 (sole PI). Thanks NSF!
 - Adwait is serving on the External Review Committee of [https://www.microarch.org/micro50/ MICRO 2017] 
 - Papers accepted in HPCA 2017 and VLSID 2017
 - Papers accepted in IISWC, PACT (2), MICRO, and SIGMETRICS 2016.  
-- Adwait is invited to serve on the Program Committees of [http://dsn2017.github.io/ DSN 2017], [http://www.hpdc.org/2017/ HPDC 2017], [http://gpgpu10.athoura.com/ GPGPU 2017], and [http://www.nas-conference.org/NAS-2017/ NAS 2017]. Submit your best work.
-- *\<span style=\"color: red\"\>The lab is looking for self-motivated students to join my research group. Multiple 
-funded positions are available. If you are interested in doing research in the area of computer 
-architecture, please email me with your CV. \<\/span\>*I am especially looking for students who are 
-interested in the areas of GPU computing, 
-memory systems, and emerging/non-traditional computing hardware architectures. Students interested in other 
-disciplines such as (but not limited to) biology, economics, machine learning, physics, security, are also welcome to initiate a discussion with me to explore cross-disciplinary research opportunities.
- \n
+- Adwait is invited to serve on the Program Committees of [http://dsn2017.github.io/ DSN 2017], [http://www.hpdc.org/2017/ HPDC 2017], [http://gpgpu10.athoura.com/ GPGPU 2017], and [http://www.nas-conference.org/NAS-2017/ NAS 2017]. 
 
 == Faculty
 - [http://adwaitjog.github.io/ Adwait Jog]
@@ -43,20 +44,25 @@ disciplines such as (but not limited to) biology, economics, machine learning, p
 - Hongyuan Liu (Ph.D., since Spring 2017)
 - Colin Weinshenker (Undergraduate Honor's Thesis, since Fall 2016)
 
-== Graduated Students
+== Alumni
 - Fan Luo (M.S., /graduated in Summer 2016/)
 - Robert Risque (Senior's Thesis, /graduated in Spring 2016/)
 
+== Funding Sources
+- National Science Foundation (Award \#CCF-1657336)
+- NVIDIA Equipment Donation (Tesla K40)
+- Start-up grant from College of William and Mary
+
 == Selected Publications ([http://adwaitjog.github.io/pubs.html complete list])
-- *\<span style=\"color: forestgreen\"\>(HPCA 2017)\<\/span\>* [docs/pdf/Controlled-DP-HPCA-2017.pdf /Controlled Kernel Launch for Dynamic Parallelism in GPUs/]
-- *\<span style=\"color: forestgreen\"\>(MICRO 2016)\<\/span\>* [docs/pdf/zorua-micro16.pdf /Zorua: A Holistic Approach to Resource Virtualization in GPUs/]
-- *\<span style=\"color: forestgreen\"\>(PACT 2016)\<\/span\>* [docs/pdf/PIM-PACT2016.pdf /Scheduling Techniques for GPU Architectures with Processing-In-Memory Capabilities/]
-- *\<span style=\"color: forestgreen\"\>(PACT 2016)\<\/span\>* [docs/pdf/uC-States-PACT2016.pdf /μC-States: Fine-grained GPU Datapath Power Management/]
-- *\<span style=\"color: forestgreen\"\>(SIGMETRICS 2016)\<\/span\>* [docs/pdf/Clams-Sigmetrics-2016.pdf /Exploiting Core Criticality for Enhanced GPU Performance/]
-- *\<span style=\"color: forestgreen\"\>(ISCA 2015)\<\/span\>* [docs/pdf/CABA-ISCA-2015.pdf /A Case for Core-Assisted Bottleneck Acceleration in GPUs: Enabling Flexible Data Compression with Assist Warps/]
-- *\<span style=\"color: forestgreen\"\>(MICRO 2014)\<\/span\>* [docs/pdf/CPUGPU-MICRO-2014.pdf /Managing GPU Concurrency in Heterogeneous Architectures/]
-- *\<span style=\"color: forestgreen\"\>(PACT 2014)\<\/span\>* [docs/pdf/TradeCM-PACT-2014.pdf /Trading Cache Hit Rate for Memory Performance/] 
-- *\<span style=\"color: forestgreen\"\>(PACT 2013)\<\/span\>* [docs/pdf/NMNL-PACT-2013.pdf /Neither More Nor Less: Optimizing Thread-level Parallelism for GPGPUs/]
-- *\<span style=\"color: forestgreen\"\>(ISCA 2013)\<\/span\>* [docs/pdf/OSP-ISCA-2013.pdf /Orchestrated Scheduling and Prefetching for GPGPUs/]
-- *\<span style=\"color: forestgreen\"\>(ASPLOS 2013)\<\/span\>* [docs/pdf/OWL-ASPLOS-2013.pdf /OWL: Cooperative Thread Array Aware Scheduling Techniques for Improving GPGPU performance/]
-- *\<span style=\"color: forestgreen\"\>(DAC 2012)\<\/span\>* [docs/pdf/Revive-DAC-2012.pdf /Cache Revive: Architecting Volatile STT-RAM Caches for Enhanced Performance in CMPs/]
+- *\<span style=\"color: forestgreen\"\>(HPCA 2017)\<\/span\>* [http://adwaitjog.github.io/docs/pdf/Controlled-DP-HPCA-2017.pdf /Controlled Kernel Launch for Dynamic Parallelism in GPUs/]
+- *\<span style=\"color: forestgreen\"\>(MICRO 2016)\<\/span\>* [http://adwaitjog.github.io/docs/pdf/zorua-micro16.pdf /Zorua: A Holistic Approach to Resource Virtualization in GPUs/]
+- *\<span style=\"color: forestgreen\"\>(PACT 2016)\<\/span\>* [http://adwaitjog.github.io/docs/pdf/PIM-PACT2016.pdf /Scheduling Techniques for GPU Architectures with Processing-In-Memory Capabilities/]
+- *\<span style=\"color: forestgreen\"\>(PACT 2016)\<\/span\>* [http://adwaitjog.github.io/docs/pdf/uC-States-PACT2016.pdf /μC-States: Fine-grained GPU Datapath Power Management/]
+- *\<span style=\"color: forestgreen\"\>(SIGMETRICS 2016)\<\/span\>* [http://adwaitjog.github.io/docs/pdf/Clams-Sigmetrics-2016.pdf /Exploiting Core Criticality for Enhanced GPU Performance/]
+- *\<span style=\"color: forestgreen\"\>(ISCA 2015)\<\/span\>* [http://adwaitjog.github.io/docs/pdf/CABA-ISCA-2015.pdf /A Case for Core-Assisted Bottleneck Acceleration in GPUs: Enabling Flexible Data Compression with Assist Warps/]
+- *\<span style=\"color: forestgreen\"\>(MICRO 2014)\<\/span\>* [http://adwaitjog.github.io/docs/pdf/CPUGPU-MICRO-2014.pdf /Managing GPU Concurrency in Heterogeneous Architectures/]
+- *\<span style=\"color: forestgreen\"\>(PACT 2014)\<\/span\>* [http://adwaitjog.github.io/docs/pdf/TradeCM-PACT-2014.pdf /Trading Cache Hit Rate for Memory Performance/] 
+- *\<span style=\"color: forestgreen\"\>(PACT 2013)\<\/span\>* [http://adwaitjog.github.io/docs/pdf/NMNL-PACT-2013.pdf /Neither More Nor Less: Optimizing Thread-level Parallelism for GPGPUs/]
+- *\<span style=\"color: forestgreen\"\>(ISCA 2013)\<\/span\>* [http://adwaitjog.github.io/docs/pdf/OSP-ISCA-2013.pdf /Orchestrated Scheduling and Prefetching for GPGPUs/]
+- *\<span style=\"color: forestgreen\"\>(ASPLOS 2013)\<\/span\>* [http://adwaitjog.github.io/docs/pdf/OWL-ASPLOS-2013.pdf /OWL: Cooperative Thread Array Aware Scheduling Techniques for Improving GPGPU performance/]
+- *\<span style=\"color: forestgreen\"\>(DAC 2012)\<\/span\>* [http://adwaitjog.github.io/docs/pdf/Revive-DAC-2012.pdf /Cache Revive: Architecting Volatile STT-RAM Caches for Enhanced Performance in CMPs/]
