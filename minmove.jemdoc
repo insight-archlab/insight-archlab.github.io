@@ -6,7 +6,7 @@
 - The website is up.
 
 == Overview
-The goal of achieving exascale performance under stringent power budget is important, exciting, and challenging. However, one of the biggest impediments in achieving this goal is the excessive data movement across different levels of the memory hierarchy.  In this workshop, we intend to discuss innovative ways to reduce this data movement in a variety of architectures (including CPUs, GPUs, handhelds, data centers, IoT, accelerators etc.). We welcome all novel submissions that describe hardware, software, or hardware-software co-design techniques to reduce the data movement. Some of the topics are (but not limited to) are:
+The goal of achieving exascale performance under stringent power budget is important, exciting, and challenging. However, one of the biggest impediments in achieving this goal is the excessive data movement across different levels of the memory hierarchy.  In this workshop, we intend to discuss innovative ways to reduce this data movement in a variety of architectures (including CPUs, GPUs, handhelds, data centers, IoT, accelerators etc.). We welcome all novel submissions that describe hardware, software, or hardware-software co-design techniques to reduce the data movement. 
 
 == Scope 
 Any idea/technique that can help in reducing the data movement is appropriate for this workshop.
