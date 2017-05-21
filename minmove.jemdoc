@@ -2,12 +2,6 @@
 
 == 1st Workshop on Hardware/Software Techniques for Minimizing Data Movement (Min-Move 2017), to be held in conjunction with [https://parasol.tamu.edu/pact17/ PACT 2017]
 
-The workshop on computer architecture competitions is a forum for holding contests to evaluate computer architecture 
-research topics. This workshop is organized around a competition for scheduling algorithms for Graphics Processing Units (GPUs). 
-This 1st GPU Warp/Wavefront Scheduling Championship (GPU-WSC) invites contestants to submit their GPU scheduler design to participate 
-in this competition. The contestants must develop algorithms to optimize multiple metrics (e.g., IPC, cache miss-rates, 
-memory bandwidth utilization, hardware overheads etc.) on a common evaluation framework. 
-
 == Recent News
 - The website is up.
 
