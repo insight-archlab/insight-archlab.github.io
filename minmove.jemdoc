@@ -1,0 +1,50 @@
+# jemdoc: addcss{bootstrap/css/bootstrap.css}
+
+== 1st Workshop on Hardware/Software Techniques for Minimizing Data Movement (Min-Move 2017), to be held in conjunction with [https://parasol.tamu.edu/pact17/ PACT 2017]
+
+The workshop on computer architecture competitions is a forum for holding contests to evaluate computer architecture 
+research topics. This workshop is organized around a competition for scheduling algorithms for Graphics Processing Units (GPUs). 
+This 1st GPU Warp/Wavefront Scheduling Championship (GPU-WSC) invites contestants to submit their GPU scheduler design to participate 
+in this competition. The contestants must develop algorithms to optimize multiple metrics (e.g., IPC, cache miss-rates, 
+memory bandwidth utilization, hardware overheads etc.) on a common evaluation framework. 
+
+== Recent News
+- The website is up.
+
+== Overview
+The goal of achieving exascale performance under stringent power budget is important, exciting, and challenging. However, one of the biggest impediments in achieving this goal is the excessive data movement across different levels of the memory hierarchy.  In this workshop, we intend to discuss innovative ways to reduce this data movement in a variety of architectures (including CPUs, GPUs, handhelds, data centers, IoT, accelerators etc.). We welcome all novel submissions that describe hardware, software, or hardware-software co-design techniques to reduce the data movement. Some of the topics are (but not limited to) are:
+
+== Scope 
+Any idea/technique that can help in reducing the data movement is appropriate for this workshop.
+Some topics (but not limited to) are:
+
+- Near Data Processing  (e.g., near caches/memory/disks)
+- In-Memory Computing (e.g., in caches/memory/disks)
+- Approximate Computing (e.g., load value approximations)
+- Cache/DRAM Locality Optimizations
+- Data Compression Techniques
+- Emerging Memory Technologies (e.g., STT-RAM, Memristor)
+- Non Von-Neumann Architectures (e.g., Quantum Architectures, Automata Processor)
+- Interconnection Architectures (e.g., on-chip, off-chip, Ethernet, interposer system, flexible interconnects for FPGA) 
+- Programming and Language Support for Minimizing Data Movement 
+
+== Submission 
+- Please use the [http://www.acm.org/publications/proceedings-template standard LaTeX or Word ACM templates]. Write-up length should not exceed *6* pages. Email your write-up to all the organizers by the deadline (see Important
+Dates below). 
+
+== Proceedings
+An online version of all the papers will be available on the workshop website. This choice allows authors to use feedback from the workshop to extend their work for future publication. 
+
+== Important Dates
+- Deadline: Monday, Aug 14th, 2017
+
+== Organizing Committee 
+- [http://adwaitjog.github.io/ Adwait Jog], College of William and Mary (Email: adwait@cs.wm.edu)
+- [http://faculty.cse.tamu.edu/ejkim/ Eun Jung (EJ) Kim], Texas A&M University (Email: ejkim at cs.tamu.edu)
+
+== Program Committee 
+- TBD
+
+== Questions?
+- Please contact the organizers with regard to any questions regarding the championship. Please
+email us with the subject prefixed by the tag "Min-Move:". For example, "Min-Move:<your-subject-here>"
