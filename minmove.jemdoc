@@ -2,9 +2,6 @@
 
 == 1st Workshop on Hardware/Software Techniques for Minimizing Data Movement (Min-Move 2017), to be held in conjunction with [https://parasol.tamu.edu/pact17/ PACT 2017]
 
-== Recent News
-- The website is up.
-
 == Overview
 The goal of achieving exascale performance under stringent power budget is important, exciting, and challenging. However, one of the biggest impediments in achieving this goal is the excessive data movement across different levels of the memory hierarchy.  In this workshop, we intend to discuss innovative ways to reduce this data movement in a variety of architectures (including CPUs, GPUs, handhelds, data centers, IoT, accelerators etc.). We welcome all novel submissions that describe hardware, software, or hardware-software co-design techniques to reduce the data movement. 
 
@@ -31,14 +28,24 @@ Email your paper to all the organizers by the deadline (see Important Dates belo
 An online version of all the papers will be available on the workshop website. This choice allows authors to use feedback from the workshop to extend their work for future publication. 
 
 == Important Dates
-- Deadline: Monday, Aug 14th, 2017
+- Deadline: Aug 14th, 2017
+- Notification: Aug 30th, 2017 
 
 == Organizing Committee 
 - [http://adwaitjog.github.io/ Adwait Jog], College of William and Mary (Email: adwait@cs.wm.edu)
 - [http://faculty.cse.tamu.edu/ejkim/ Eun Jung (EJ) Kim], Texas A&M University (Email: ejkim at cs.tamu.edu)
 
-== Program Committee 
-- TBD
+== Program Committee
+- Murali Annavaram (USC)
+- Rajeev Balasubramonian (Utah)
+- Reetuparna Das (UMich)
+- Lizy John (UT Austin)
+- David Kaeli (Northeastern)
+- Onur Kayiran (AMD)
+- Hyesoon Kim (Gatech)
+- Asit Mishra (Intel)
+- Lawrence Rauchwerger (Texas A&M)
+- Sudha Yalamanchalli (Gatech) 
 
 == Questions?
 - Please contact the organizers if you have any questions. Please
