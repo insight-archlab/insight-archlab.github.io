@@ -2,6 +2,10 @@
 
 == 1st Workshop on Hardware/Software Techniques for Minimizing Data Movement (Min-Move 2017), to be held in conjunction with [https://parasol.tamu.edu/pact17/ PACT 2017]
 
+== News
+- Website is up.
+- If you are interested in this workshop, please send an empty email to minmove@googlegroups.com to subscribe the google group. You will receive the latest announcements.
+
 == Overview
 The goal of achieving exascale performance under stringent power budget is important, exciting, and challenging. One of the biggest impediments in achieving this goal is the excessive data movement across different levels of the memory hierarchy.  In this workshop, we intend to discuss innovative ways to reduce this data movement in a variety of architectures (including CPUs, GPUs, handhelds, data centers, IoT, accelerators etc.). We welcome all novel submissions that describe hardware, software, or hardware-software co-design techniques to reduce the data movement. 
 
