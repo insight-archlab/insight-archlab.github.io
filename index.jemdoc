@@ -18,39 +18,38 @@ The high-level goal of the lab is to generate novel insights, which would facili
 in building future computing systems more energy-efficient, reliable, secure, capable, 
 and useful.
 
-The lab is looking for self-motivated students. *Multiple 
-funded positions are available*. If you are interested in doing research in the general 
-area of computer architecture, please email [http://adwaitjog.github.io/ Prof. Adwait Jog] 
-with your CV. 
-We are especially looking for students who are interested in the areas of GPU computing, 
-memory systems, and emerging/non-traditional computing hardware (e.g., quantum and DNA) 
-architectures. Students interested in other disciplines such as (but not limited to) 
-biology, economics, machine learning, physics, security, are also welcome to apply.
+*\<span style=\"color: red\"\> We are looking for self-motivated students to work with. \<\/span\>* Current topics of interest include (but not limited to):
+GPU Architectures, Approximate Computing, Hardware Security and Reliability, and Non-traditional Architectures (Automata Processor, Quantum, DNA etc.). Email 
+[http://adwaitjog.github.io/ Prof. Adwait Jog] with your CV, if you are interested.
 
 == Recent News
-- Received NSF CRII Award 2017 (sole PI). Thanks NSF!
-- Adwait is serving on the External Review Committee of [https://www.microarch.org/micro50/ MICRO 2017] 
-- Papers accepted in HPCA 2017 and VLSID 2017
-- Papers accepted in IISWC, PACT (2), MICRO, and SIGMETRICS 2016.  
-- Adwait is invited to serve on the Program Committees of [http://dsn2017.github.io/ DSN 2017], [http://www.hpdc.org/2017/ HPDC 2017], [http://gpgpu10.athoura.com/ GPGPU 2017], and [http://www.nas-conference.org/NAS-2017/ NAS 2017]. 
+- Co-organizing a workshop on minimizing data movement ([http://insight-archlab.github.io/minmove.html Min-Move 2017]). Please consider submitting.
+- We received [https://www.nsf.gov/awardsearch/showAward?AWD_ID=1717532 NSF SHF Award 2017], PI. Thanks NSF!
+- We received [https://www.nsf.gov/awardsearch/showAward?AWD_ID=1657336 NSF CRII Award 2017], sole PI. Thanks NSF!
+- Adwait is serving on the External Program Committee of [http://hpca2018.ece.ucsb.edu/ HPCA 2018]
+- Adwait served on the External Program Committee of [https://www.microarch.org/micro50/ MICRO 2017]
+- Papers accepted in HPCA, VLSID, and ISVLSI 2017
+- Papers accepted in IISWC, PACT (2), MICRO, and SIGMETRICS 2016.
+- Adwait served on the Program Committees of [http://dsn2017.github.io/ DSN 2017], [http://www.hpdc.org/2017/ HPDC 2017], [http://gpgpu10.athoura.com/ GPGPU 2017], and [http://www.nas-conference.org/NAS-2017/ NAS 2017].
 
 == Faculty
 - [http://adwaitjog.github.io/ Adwait Jog]
 
 == Current Students
-- [http://massemibrahim.github.io/ Mohamed Ibrahim] (Ph.D., since Spring 2016)
-- Haonan Wang (Ph.D., since Spring 2016)
-- Gurunath Kadam (Ph.D., since Fall 2016)
-- Hongyuan Liu (Ph.D., since Spring 2017)
-- Colin Weinshenker (Undergraduate Honor's Thesis, since Fall 2016)
+- Haonan Wang (Ph.D., Jan 2016 --)
+- [http://massemibrahim.github.io/ Mohamed Ibrahim] (Ph.D., Jan 2016 --)
+- Gurunath Kadam (Ph.D., Aug 2016 --)
+- [http://www.cs.wm.edu/~hyliu/ Hongyuan Liu] (Ph.D., Jan 2017 --)
 
 == Alumni
-- Fan Luo (M.S., /graduated in Summer 2016/)
-- Robert Risque (Senior's Thesis, /graduated in Spring 2016/)
+- Colin Weinshenker (Honor's Thesis 2017, winner of Park Award, First Employment: Intel)
+- Corey Ames, Rongdong Chai, (M.S. 2017)
+- Fan Luo (M.S. 2016. First Employment: Ph.D. student at University of Arizona)
+- Robert Risque (Senior's Thesis 2016)
 
 == Funding Sources
-- National Science Foundation (Award \#CCF-1657336)
-- NVIDIA Equipment Donation (Tesla K40)
+- National Science Foundation (Awards \#CCF-1657336, \#CCF-1717532)
+- NVIDIA Equipment Donation (Tesla K40, Jetson TX1)
 - Start-up grant from College of William and Mary
 
 == Selected Publications ([http://adwaitjog.github.io/pubs.html complete list])
