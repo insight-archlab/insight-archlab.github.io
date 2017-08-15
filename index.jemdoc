@@ -18,9 +18,10 @@ The high-level goal of the lab is to generate novel insights, which would facili
 in building future computing systems more energy-efficient, reliable, secure, capable, 
 and useful.
 
-*\<span style=\"color: red\"\> We are looking for self-motivated students to work with. \<\/span\>* Current topics of interest include (but not limited to):
-GPU Architectures, Approximate Computing, Hardware Security and Reliability, and Non-traditional Architectures (Automata Processor, Quantum, DNA etc.). Email 
-[http://adwaitjog.github.io/ Prof. Adwait Jog] with your CV, if you are interested.
+*\<span style=\"color: red\"\> We are looking for self-motivated students to work with. \<\/span\>* We work in the area of computer architecture. Especially,
+we are interested in designing novel GPU-based architectures and other non-traditional accelerators. Current topics of interest include (but not limited to): 
+GPU Memory System, Approximate GPU Computing, GPU Reliability and Security, and Non-traditional Architectures (e.g., Automata Processor, Quantum Architectures). 
+If you are interested, email [http://adwaitjog.github.io/ Prof. Adwait Jog] with your CV. If you are not currently at W&M, also apply [http://www.wm.edu/as/computerscience/graduate/ here].
 
 == Recent News
 - Co-organizing a workshop on minimizing data movement ([http://insight-archlab.github.io/minmove.html Min-Move 2017]) co-located with PACT 2017. Please consider submitting.
