@@ -38,21 +38,21 @@
   <tr bgcolor=cornsilk align=CENTER >
   <td valign=top> 16:20 - 16:40 &nbsp;</td>
   <td valign=top> Kishore Punniyamurthy (UT Austin) and Andreas Gerstlauer (UT Austin). 
-  Exploring Non-Uniform Processing In-Memory Architectures &nbsp;</td>
+  <b>Exploring Non-Uniform Processing In-Memory Architectures</b> &nbsp;</td>
   </tr>
     </tr>
   <tr bgcolor=cornsilk align=CENTER >
   <td valign=top> 16:40 - 17:00 &nbsp;</td>
   <td valign=top> Satoshi Imamura (Fujitsu Laboratories Ltd.), Mitsuru Sato (Fujitsu Laboratories Ltd.) and Eiji Yoshida
   (Fujitsu Laboratories Ltd.) 
-  Evaluating a Trade-Off between DRAM and Persistent Memory for 
-  Persistent-Data Placement on Hybrid Main Memory &nbsp;</td>
+  <b>Evaluating a Trade-Off between DRAM and Persistent Memory for 
+  Persistent-Data Placement on Hybrid Main Memory</b> &nbsp;</td>
   </tr>
     </tr>
   <tr bgcolor=cornsilk align=CENTER >
   <td valign=top> 17:00 - 17:20 &nbsp;</td>
   <td valign=top> Zhenhong Liu (UIUC), Amin Farmahini-Farahani (AMD) and Nuwan Jayasena (AMD). 
-  Opportunities for Processing Near Non-Volatile Memory in Heterogeneous Memory Systems &nbsp;</td>
+  <b>Opportunities for Processing Near Non-Volatile Memory in Heterogeneous Memory Systems</b> &nbsp;</td>
   </tr>
 </TABLE>
 
