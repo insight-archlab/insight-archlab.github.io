@@ -7,7 +7,7 @@
 {}{raw}
 <center>
 <TABLE cellspacing=5 cellpadding=5 border=2>
-  <th>Time </th>
+  <tr><th>Time</th>
   <th>Agenda</th>
   </tr>
   <tr bgcolor=cornsilk align=CENTER >
