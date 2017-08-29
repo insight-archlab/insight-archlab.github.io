@@ -25,6 +25,25 @@ Some topics (but not limited to) are:
 - Interconnection Architectures (e.g., on-chip, off-chip, Ethernet, interposer system, flexible interconnects for FPGA) 
 - Programming and Language Support for Minimizing Data Movement 
 
+== Workshop Program
+~~~
+{}{raw}
+<center>
+<TABLE cellspacing=5 cellpadding=5 border=2>
+  <th>Time</th>
+  <th>Agenda</th>
+  </tr>
+  <tr bgcolor=cornsilk align=CENTER >
+  <td valign=top> 13:00 PM &nbsp;</td>
+  <td valign=top> Introductions &nbsp;</td>
+  </tr>
+</TABLE>
+
+</center>
+~~~
+
+
+
 == Submission 
 - Submission site is hosted [https://easychair.org/conferences/?conf=minmove2017 here].
 - Please use the [http://www.acm.org/publications/proceedings-template standard LaTeX or Word ACM templates]. The length (including references and other material) of the paper should not exceed *6* 
