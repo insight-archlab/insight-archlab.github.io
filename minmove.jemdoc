@@ -27,7 +27,7 @@
   </tr>
   <tr bgcolor=cornsilk align=CENTER >
   <td valign=top> 15:00 - 15:30 &nbsp;</td>
-  <td valign=top> Coffee Break &nbsp;</td>
+  <td valign=top> <font color="green"> Coffee Break</font> &nbsp;</td>
   </tr>
   </tr>
   <tr bgcolor=cornsilk align=CENTER >
@@ -80,11 +80,6 @@ Some topics (but not limited to) are:
 - Non Von-Neumann Architectures (e.g., Quantum Architectures, Automata Processor)
 - Interconnection Architectures (e.g., on-chip, off-chip, Ethernet, interposer system, flexible interconnects for FPGA) 
 - Programming and Language Support for Minimizing Data Movement 
-
-
-
-
-
 
 == Submission 
 - Submission site is hosted [https://easychair.org/conferences/?conf=minmove2017 here].
