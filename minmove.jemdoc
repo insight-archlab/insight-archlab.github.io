@@ -2,29 +2,6 @@
 
 == 1st Workshop on Hardware/Software Techniques for Minimizing Data Movement (Min-Move 2017), to be held in conjunction with [https://parasol.tamu.edu/pact17/ PACT 2017]
 
-== News
-- Submission site is hosted [https://easychair.org/conferences/?conf=minmove2017 here].
-- This workshop will feature keynote talks from: Lizy Kurian John (UT Austin), Yan Solihin (NSF/NCSU), and Jun Yang (UPitt)
-- If you are interested in this workshop, please send an empty email to minmove@googlegroups.com to subscribe the google group. You will receive the latest announcements.
-
-
-== Overview
-The goal of achieving exascale performance under stringent power budget is important, exciting, and challenging. One of the biggest impediments in achieving this goal is the excessive data movement across different levels of the memory hierarchy.  In this workshop, we intend to discuss innovative ways to reduce this data movement in a variety of architectures (including CPUs, GPUs, handhelds, data centers, IoT, accelerators etc.). We welcome all novel submissions that describe hardware, software, or hardware-software co-design techniques to reduce the data movement. 
-
-== Scope 
-Any idea/technique that can help in reducing the data movement is appropriate for this workshop.
-Some topics (but not limited to) are:
-
-- Near Data Processing  (e.g., near caches or memory or storage devices)
-- In-Memory Computing (e.g., in caches or memory or storage devices)
-- Approximate Computing (e.g., load value approximations)
-- Cache/DRAM Locality Optimizations
-- Data Compression Techniques
-- Emerging Memory Technologies (e.g., STT-RAM, Memristor)
-- Non Von-Neumann Architectures (e.g., Quantum Architectures, Automata Processor)
-- Interconnection Architectures (e.g., on-chip, off-chip, Ethernet, interposer system, flexible interconnects for FPGA) 
-- Programming and Language Support for Minimizing Data Movement 
-
 == Workshop Program
 ~~~
 {}{raw}
@@ -40,12 +17,12 @@ Some topics (but not limited to) are:
   </tr>
   <tr bgcolor=cornsilk align=CENTER >
   <td valign=top> 13:10 - 14:00 &nbsp;</td>
-  <td valign=top> Keynote-1 &nbsp;</td>
+  <td valign=top> Keynote-1 from Lizy Kurian John (UT Austin) &nbsp;</td>
   </tr>
   </tr>
   <tr bgcolor=cornsilk align=CENTER >
   <td valign=top> 14:00 - 15:00 &nbsp;</td>
-  <td valign=top> Keynote-2 &nbsp;</td>
+  <td valign=top> Keynote-2 from Yan Solihin (NSF/NCSU) &nbsp;</td>
   </tr>
   </tr>
   <tr bgcolor=cornsilk align=CENTER >
@@ -55,7 +32,7 @@ Some topics (but not limited to) are:
   </tr>
   <tr bgcolor=cornsilk align=CENTER >
   <td valign=top> 15:30 - 16:20 &nbsp;</td>
-  <td valign=top> Keynote-3 &nbsp;</td>
+  <td valign=top> Keynote-3 from Jun Yang (UPitt) &nbsp;</td>
   </tr>
    </tr>
   <tr bgcolor=cornsilk align=CENTER >
@@ -81,6 +58,30 @@ Some topics (but not limited to) are:
 
 </center>
 ~~~
+
+== News
+- Submission site is hosted [https://easychair.org/conferences/?conf=minmove2017 here].
+- This workshop will feature keynote talks from: Lizy Kurian John (UT Austin), Yan Solihin (NSF/NCSU), and Jun Yang (UPitt)
+- If you are interested in this workshop, please send an empty email to minmove@googlegroups.com to subscribe the google group. You will receive the latest announcements.
+
+== Overview
+The goal of achieving exascale performance under stringent power budget is important, exciting, and challenging. One of the biggest impediments in achieving this goal is the excessive data movement across different levels of the memory hierarchy.  In this workshop, we intend to discuss innovative ways to reduce this data movement in a variety of architectures (including CPUs, GPUs, handhelds, data centers, IoT, accelerators etc.). We welcome all novel submissions that describe hardware, software, or hardware-software co-design techniques to reduce the data movement. 
+
+== Scope 
+Any idea/technique that can help in reducing the data movement is appropriate for this workshop.
+Some topics (but not limited to) are:
+
+- Near Data Processing  (e.g., near caches or memory or storage devices)
+- In-Memory Computing (e.g., in caches or memory or storage devices)
+- Approximate Computing (e.g., load value approximations)
+- Cache/DRAM Locality Optimizations
+- Data Compression Techniques
+- Emerging Memory Technologies (e.g., STT-RAM, Memristor)
+- Non Von-Neumann Architectures (e.g., Quantum Architectures, Automata Processor)
+- Interconnection Architectures (e.g., on-chip, off-chip, Ethernet, interposer system, flexible interconnects for FPGA) 
+- Programming and Language Support for Minimizing Data Movement 
+
+
 
 
 
