@@ -7,9 +7,10 @@
 {}{raw}
 <center>
 <TABLE cellspacing=5 cellpadding=5 border=2>
-  <tr><th>Time</th>
-  <th>Agenda (Sep 9th, Location: TBD)</th>
-  <th>PDF/PPTX (Sep 9th, Location: TBD)</th>
+  <tr>
+  <th>Time</th>
+  <th> Agenda (Sep 9th, Location: TBD)</th>
+  <th> PDF/PPTX (Sep 9th, Location: TBD)</th>
   </tr>
   <tr bgcolor=cornsilk align=CENTER >
   <td valign=top> 13:00 - 13:10 &nbsp;</td>
