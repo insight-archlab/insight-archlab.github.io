@@ -9,24 +9,28 @@
 <TABLE cellspacing=5 cellpadding=5 border=2>
   <tr>
   <th> Time</th>
-  <th> Agenda (Sep 9th, Location: TBD)</th>
+  <th> Topic </th>
+  <th> Speaker/Authors </th>
   <th> PDF/PPTX (Sep 9th, Location: TBD)</th>
   </tr>
   <tr bgcolor=cornsilk align=CENTER >
   <td valign=top> 13:00 - 13:10 &nbsp;</td>
   <td valign=top> Welcome and Introductions &nbsp;</td>
+  <td valign=top> Adwait Jog &nbsp;</td>
   <td valign=top> <a href="http://insight-archlab.github.io/"> (Slides)</a> &nbsp;</td>
   </tr>
   </tr>
   <tr bgcolor=cornsilk align=CENTER >
   <td valign=top> 13:10 - 14:00 &nbsp;</td>
-  <td valign=top> Keynote Talk from Lizy Kurian John (UT Austin) &nbsp;</td>
+  <td valign=top> Keynote Talk   &nbsp;</td>
+  <td valign=top> Lizy Kurian John (UT Austin) &nbsp;</td>
   <td valign=top> <a href="http://insight-archlab.github.io/"> (Slides)</a> &nbsp;</td>
   </tr>
   </tr>
   <tr bgcolor=cornsilk align=CENTER >
   <td valign=top> 14:00 - 14:50 &nbsp;</td>
-  <td valign=top> Keynote Talk from Yan Solihin (NSF/NCSU) &nbsp;</td>
+  <td valign=top> Keynote Talk   &nbsp;</td>
+  <td valign=top> Yan Solihin (NSF/NCSU) &nbsp;</td>
   <td valign=top> <a href="http://insight-archlab.github.io/"> (Slides)</a> &nbsp;</td>
   </tr>
   </tr>
@@ -38,30 +42,32 @@
   </tr>
   <tr bgcolor=cornsilk align=CENTER >
   <td valign=top> 15:30 - 16:20 &nbsp;</td>
-  <td valign=top> Keynote Talk from Jun Yang (UPitt) &nbsp;</td>
+  <td valign=top> Keynote Talk &nbsp;</td>
+  <td valign=top> Jun Yang (UPitt) &nbsp;</td>
   <td valign=top> <a href="http://insight-archlab.github.io/"> (Slides)</a> &nbsp;</td>
   </tr>
    </tr>
   <tr bgcolor=cornsilk align=CENTER >
   <td valign=top> 16:20 - 16:40 &nbsp;</td>
-  <td valign=top> Kishore Punniyamurthy (UT Austin) and Andreas Gerstlauer (UT Austin). 
-  <b>Exploring Non-Uniform Processing In-Memory Architectures</b> &nbsp;</td>
+  <td valign=top> <b>Exploring Non-Uniform Processing In-Memory Architectures</b> &nbsp;</td>
+  <td valign=top> Kishore Punniyamurthy (UT Austin) and Andreas Gerstlauer (UT Austin) &nbsp;</td>
   <td valign=top> <a href="http://insight-archlab.github.io/minmove/non_uniform_pim_minmove2017.pdf"> (PDF)</a> &nbsp;</td>
   </tr>
     </tr>
   <tr bgcolor=cornsilk align=CENTER >
   <td valign=top> 16:40 - 17:00 &nbsp;</td>
-  <td valign=top> Satoshi Imamura (Fujitsu Laboratories Ltd.), Mitsuru Sato (Fujitsu Laboratories Ltd.) and Eiji Yoshida
-  (Fujitsu Laboratories Ltd.) 
-  <b>Evaluating a Trade-Off between DRAM and Persistent Memory for 
+  <td valign=top> <b>Evaluating a Trade-Off between DRAM and Persistent Memory for 
   Persistent-Data Placement on Hybrid Main Memory</b> &nbsp;</td>
+  <td valign=top> Satoshi Imamura (Fujitsu Laboratories Ltd.), Mitsuru Sato (Fujitsu Laboratories Ltd.) and Eiji Yoshida
+  (Fujitsu Laboratories Ltd.)  &nbsp;</td>
   <td valign=top> <a href="http://insight-archlab.github.io/minmove/persistent_dram_data_placement_minmove2017.pdf"> (PDF)</a> &nbsp;</td>
   </tr>
     </tr>
   <tr bgcolor=cornsilk align=CENTER >
   <td valign=top> 17:00 - 17:20 &nbsp;</td>
-  <td valign=top> Zhenhong Liu (UIUC), Amin Farmahini-Farahani (AMD) and Nuwan Jayasena (AMD). 
+  <td valign=top>  
   <b>Opportunities for Processing Near Non-Volatile Memory in Heterogeneous Memory Systems</b> &nbsp;</td>
+  <td valign=top> Zhenhong Liu (UIUC), Amin Farmahini-Farahani (AMD) and Nuwan Jayasena (AMD) &nbsp;</td>
   <td valign=top> <a href="http://insight-archlab.github.io/minmove/nvm_pim_minmove2017.pdf"> (PDF)</a> &nbsp;</td>
   </tr>
 </TABLE>
