@@ -22,7 +22,7 @@
   </tr>
   <tr bgcolor=cornsilk align=CENTER >
   <td valign=top> 13:10 - 14:00 &nbsp;</td>
-  <td valign=top> <b> Keynote 1: </b> TBD &nbsp;</td>
+  <td valign=top> <b> Keynote 1: </b> Compute in-situ and in-transit &nbsp;</td>
   <td valign=top> Lizy Kurian John (UT Austin) &nbsp;</td>
   <td valign=top> <a href="http://insight-archlab.github.io/minmove.html"> (Slides)</a> &nbsp;</td>
   </tr>
@@ -43,7 +43,7 @@
   </tr>
   <tr bgcolor=cornsilk align=CENTER >
   <td valign=top> 15:30 - 16:20 &nbsp;</td>
-  <td valign=top> <b> Keynote 3: </b> TBD &nbsp;</td>
+  <td valign=top> <b> Keynote 3: </b> Toward a More Efficient and Manageable GPGPU Design &nbsp;</td>
   <td valign=top> Jun Yang (UPitt) &nbsp;</td>
   <td valign=top> <a href="http://insight-archlab.github.io/minmove.html"> (Slides)</a> &nbsp;</td>
   </tr>
@@ -74,6 +74,32 @@
 
 </center>
 ~~~
+
+== Keynote 1
+Speaker: Lizy Kurian John (UT Austin)
+
+Title: Compute in-situ and in-transit     
+
+Abstract: TBD 
+
+
+== Keynote 2
+Speaker: Yan Solihin (NSF/NCSU)
+
+Title: TBD    
+
+Abstract: TBD 
+
+
+== Keynote 3
+Speaker: Jun Yang, UPitt
+
+Title: Toward a More Efficient and Manageable GPGPU Design     
+
+Abstract: Today’s applications are increasingly compute-intensive and data-intensive at the same time. Computer systems are challenged by the requirement of high processing capability and data handling capability. One of the most critical issues is the frequent and large volume of data movement across system stack. Excessive data movements hog system performance and consume extra energy unnecessarily. It is therefore crucial to combat this challenge and minimize its impact on performance and energy. In this talk, mitigating the impact of data movement is discussed in the context of GPGPU, a general purpose parallel accelerator. An effective mechanism to mask the influence of data movement is to utilize the parallel feature of the architecture and overlap it with computing so that delay caused by moving data around is hidden behind computing cycles. In the effort of reducing the volume of data movement, and hence reducing energy consumption, the observation of redundant data removal is the key to architecture innovations. We introduce new architecture features that not only lessen the data movement overhead but also enable better manageability of the accelerator resources.
+
+
+
 
 == News
 - Submission site is hosted [https://easychair.org/conferences/?conf=minmove2017 here].
