@@ -22,14 +22,14 @@
   </tr>
   <tr bgcolor=cornsilk align=CENTER >
   <td valign=top> 13:10 - 14:00 &nbsp;</td>
-  <td valign=top> <b> Keynote 1: </b> Compute in-situ and in-transit &nbsp;</td>
+  <td valign=top> <font color="red"> Keynote 1: </font> <b> Compute in-situ and in-transit </b> &nbsp;</td>
   <td valign=top> Lizy Kurian John (UT Austin) &nbsp;</td>
   <td valign=top> <a href="http://insight-archlab.github.io/minmove.html"> (Slides)</a> &nbsp;</td>
   </tr>
   </tr>
   <tr bgcolor=cornsilk align=CENTER >
   <td valign=top> 14:00 - 14:50 &nbsp;</td>
-  <td valign=top> <b> Keynote 2: </b> TBD &nbsp;</td>
+  <td valign=top> <font color="red"> Keynote 2: </font> <b> TBD </b> &nbsp;</td>
   <td valign=top> Yan Solihin (NSF/NCSU) &nbsp;</td>
   <td valign=top> <a href="http://insight-archlab.github.io/minmove.html"> (Slides)</a> &nbsp;</td>
   </tr>
@@ -43,7 +43,7 @@
   </tr>
   <tr bgcolor=cornsilk align=CENTER >
   <td valign=top> 15:30 - 16:20 &nbsp;</td>
-  <td valign=top> <b> Keynote 3: </b> Toward a More Efficient and Manageable GPGPU Design &nbsp;</td>
+  <td valign=top> <font color="red"> Keynote 3: </font> <b> Toward a More Efficient and Manageable GPGPU Design </b> &nbsp;</td>
   <td valign=top> Jun Yang (UPitt) &nbsp;</td>
   <td valign=top> <a href="http://insight-archlab.github.io/minmove.html"> (Slides)</a> &nbsp;</td>
   </tr>
