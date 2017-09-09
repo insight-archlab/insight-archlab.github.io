@@ -1,15 +1,16 @@
 # jemdoc: addcss{bootstrap/css/bootstrap.css}
 
-== 1st Workshop on Hardware/Software Techniques for Minimizing Data Movement (Min-Move 2017), to be held in conjunction with [https://parasol.tamu.edu/pact17/ PACT 2017]
+== 1st Workshop on Hardware/Software Techniques for Minimizing Data Movement (Min-Move 2017), in conjunction 
+with [https://parasol.tamu.edu/pact17/ PACT 2017]
 
-== Tentative Workshop Program
+== Workshop Program
 ~~~
 {}{raw}
 <center>
 <TABLE cellspacing=5 cellpadding=5 border=2>
   <tr>
   <th> Time</th>
-  <th> Agenda (September 9th, Location: TBD) </th>
+  <th> Workshop Agenda (September 9th, Location: TBD) </th>
   <th> Speaker/Authors </th>
   <th> Material</th>
   </tr>
@@ -29,7 +30,7 @@
   </tr>
   <tr bgcolor=cornsilk align=CENTER >
   <td valign=top> 14:10 - 15:00 &nbsp;</td>
-  <td valign=top> <font color="red"> Keynote 2: </font> <b> TBD </b> &nbsp;</td>
+  <td valign=top> <font color="red"> Keynote 2: </font> <b> When Moving Data is Expensive: What We can Learn from High Gas Prices </b> &nbsp;</td>
   <td valign=top> Yan Solihin (NSF/NCSU) &nbsp;</td>
   <td valign=top> <a href="http://insight-archlab.github.io/minmove.html"> (Slides)</a> &nbsp;</td>
   </tr>
@@ -88,11 +89,15 @@
 == Keynote 2
 *Speaker: Yan Solihin (NSF/NCSU)*
 
-*Title:* TBD    
+*Title:* When Moving Data is Expensive: What We can Learn from High Gas Prices    
 
-*Abstract:* TBD 
+*Abstract:* 
+Processor needs data to be transported from memory in order to compute. Due to various trends in server architectures, some data will be located quite far away from the processor. In this talk, I will discuss strategies that can be deployed to reduce the cost of data transportation. Analogies can be found from the 2006-2008 time period when gas prices were high in the US, making people transportation expensive. Lessons from high gas prices can be applied to deal with expensive data transportation. 
 
 *Bio:*
+Yan Solihin is a Program Director at the Division of Computer and Network Systems (CNS) at the National Science Foundation, managing Computer Systems Research (CSR), Secure and Trustworthy Cyberspace (SaTC), Scalability and Parallelism in the eXtreme (SPX), and NSF/Intel Partnership on Foundational Microarchitecture Research (FoMR). He is also a Professor of Electrical and Computer Engineering at North Carolina State University. 
+
+He obtained his B.S. degree in computer science from Institut Teknologi Bandung in 1995, B.S. degree in Mathematics from Universitas Terbuka Indonesia in 1995, M.A.Sc degree in computer engineering from Nanyang Technological University in 1997, and M.S. and Ph.D. degrees in computer science from the University of Illinois at Urbana-Champaign in 1999 and 2002. He is a recipient of 2010 and 2005 IBM Faculty Partnership Award, 2004 NSF Faculty Early Career Award, and 1997 AT&T Leadership Award. He is listed in the HPCA Hall of Fame. He is a senior member of the IEEE. His research interests include computer architecture, memory hierarchy design, non-volatile memory architecture, programming models, and workload cloning. He has published more than 90 papers in computer architecture and performance modeling. He has released several software packages to the public: ACAPP - a cache performance model toolset, HeapServer - a secure heap management library, Scaltool - parallel program scalability pinpointer, and Fodex - a forensic document examination toolset. He has written two graduate-level textbooks, including Fundamentals of Parallel Multicore Architecture, CRC Press, 2015.
 
 == Keynote 3
 *Speaker: Jun Yang, UPitt*
@@ -103,11 +108,6 @@
 
 *Bio:* Jun Yang is a Professor of Electrical and Computer Engineering Department at the University of Pittsburgh. She received her Ph.D. from The University of Arizona, 2002, and became an assistant professor at UC Riverside (2002-2006) prior to joining University of Pittsburgh. Jun’s research is in the broad area of computer architecture and her recent focuses include GPU designs, emerging memory technologies, interconnection networks, 3D integration, and power and thermal management techniques. Jun is included in HPCA Fall of Fame, is a recipient of NSF CAREER award in 2008, IEEE MICRO Top Picks award in 2010, and best paper awards of ISLPED 2013 and ICCD 2007.
 
-
-== News
-- Submission site is hosted [https://easychair.org/conferences/?conf=minmove2017 here].
-- This workshop will feature keynote talks from: Lizy Kurian John (UT Austin), Yan Solihin (NSF/NCSU), and Jun Yang (UPitt)
-- If you are interested in this workshop, please send an empty email to minmove@googlegroups.com to subscribe the google group. You will receive the latest announcements.
 
 == Overview
 The goal of achieving exascale performance under stringent power budget is important, exciting, and challenging. One of the biggest impediments in achieving this goal is the excessive data movement across different levels of the memory hierarchy.  In this workshop, we intend to discuss innovative ways to reduce this data movement in a variety of architectures (including CPUs, GPUs, handhelds, data centers, IoT, accelerators etc.). We welcome all novel submissions that describe hardware, software, or hardware-software co-design techniques to reduce the data movement. 
@@ -122,14 +122,15 @@ Some topics (but not limited to) are:
 - Cache/DRAM Locality Optimizations
 - Data Compression Techniques
 - Emerging Memory Technologies (e.g., STT-RAM, Memristor)
-- Non Von-Neumann Architectures (e.g., Quantum Architectures, Automata Processor)
-- Interconnection Architectures (e.g., on-chip, off-chip, Ethernet, interposer system, flexible interconnects for FPGA) 
+- Non-traditional Architectures (e.g., Quantum Architectures, Automata Processor)
+- Interconnects (e.g., on-chip, off-chip, Ethernet, interposer system, flexible interconnects for FPGA) 
 - Programming and Language Support for Minimizing Data Movement 
 
 == Submission 
 - Submission site is hosted [https://easychair.org/conferences/?conf=minmove2017 here].
 - Please use the [http://www.acm.org/publications/proceedings-template standard LaTeX or Word ACM templates]. The length (including references and other material) of the paper should not exceed *6* 
 pages, with minimum length of 2 pages. 
+- If you are interested in this workshop, please send an empty email to minmove@googlegroups.com to subscribe the google group. You will receive the latest announcements.
 
 == Proceedings
 An online version of all the papers will be available on the workshop website. This choice allows authors to use feedback from the workshop to extend their work for future publication. 
