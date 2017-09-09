@@ -1,7 +1,11 @@
 # jemdoc: addcss{bootstrap/css/bootstrap.css}
 
-== 1st Workshop on Hardware/Software Techniques for Minimizing Data Movement (Min-Move 2017), in conjunction 
-with [https://parasol.tamu.edu/pact17/ PACT 2017]
+== 1st Workshop on Hardware/Software Techniques for Minimizing Data Movement (Min-Move 2017)
+
+== Organizers 
+- [http://adwaitjog.github.io/ Adwait Jog], College of William and Mary (Email: adwait@cs.wm.edu)
+- [http://faculty.cse.tamu.edu/ejkim/ Eun Jung (EJ) Kim], Texas A&M University (Email: ejkim at cs.tamu.edu)
+
 
 == Workshop Program
 ~~~
@@ -140,9 +144,6 @@ An online version of all the papers will be available on the workshop website. T
 - Camera Ready Deadline: Sept 2, 2017
 - Workshop Date: Sept 9th, 2017 
 
-== Organizing Committee 
-- [http://adwaitjog.github.io/ Adwait Jog], College of William and Mary (Email: adwait@cs.wm.edu)
-- [http://faculty.cse.tamu.edu/ejkim/ Eun Jung (EJ) Kim], Texas A&M University (Email: ejkim at cs.tamu.edu)
 
 == Program Committee
 - Murali Annavaram (USC)
