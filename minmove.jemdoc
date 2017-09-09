@@ -56,14 +56,14 @@
    </tr>
   <tr bgcolor=cornsilk align=CENTER >
   <td valign=top> 16:20 - 16:40 &nbsp;</td>
-  <td valign=top> <font color="green"> Paper I: </font> Exploring Non-Uniform Processing In-Memory Architectures &nbsp;</td>
+  <td valign=top> Exploring Non-Uniform Processing In-Memory Architectures &nbsp;</td>
   <td valign=top> Kishore Punniyamurthy (UT Austin) and Andreas Gerstlauer (UT Austin) &nbsp;</td>
   <td valign=top> <a href="http://insight-archlab.github.io/minmove/non_uniform_pim_minmove2017.pdf"> (PDF)</a> &nbsp;</td>
   </tr>
     </tr>
   <tr bgcolor=cornsilk align=CENTER >
   <td valign=top> 16:40 - 17:00 &nbsp;</td>
-  <td valign=top> <font color="green"> Paper II: </font> Evaluating a Trade-Off between DRAM and Persistent Memory for 
+  <td valign=top> Evaluating a Trade-Off between DRAM and Persistent Memory for 
   Persistent-Data Placement on Hybrid Main Memory &nbsp;</td>
   <td valign=top> Satoshi Imamura (Fujitsu Laboratories Ltd.), Mitsuru Sato (Fujitsu Laboratories Ltd.) and Eiji Yoshida
   (Fujitsu Laboratories Ltd.)  &nbsp;</td>
@@ -72,7 +72,7 @@
     </tr>
   <tr bgcolor=cornsilk align=CENTER >
   <td valign=top> 17:00 - 17:20 &nbsp;</td>
-  <td valign=top> <font color="green"> Paper III: </font> Opportunities for Processing Near Non-Volatile Memory in Heterogeneous Memory Systems &nbsp;</td>
+  <td valign=top> Opportunities for Processing Near Non-Volatile Memory in Heterogeneous Memory Systems &nbsp;</td>
   <td valign=top> Zhenhong Liu (UIUC), Amin Farmahini-Farahani (AMD) and Nuwan Jayasena (AMD) &nbsp;</td>
   <td valign=top> <a href="http://insight-archlab.github.io/minmove/nvm_pim_minmove2017.pdf"> (PDF)</a> &nbsp;</td>
   </tr>
