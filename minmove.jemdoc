@@ -11,7 +11,7 @@
 ~~~
 {}{raw}
 <center>
-<TABLE cellspacing=5 cellpadding=5 border=2>
+<TABLE cellspacing=5 cellpadding=5 border=2 align=CENTER>
   <tr>
   <th>  Time</th>
   <th>  Workshop Agenda (September 9th) </th>
