@@ -1,0 +1,165 @@
+# jemdoc: addcss{bootstrap/css/bootstrap.css}
+
+== 1st Workshop on Hardware/Software Techniques for Minimizing Data Movement (Min-Move 2017) @ PACT 2017
+
+== Organizers 
+- [http://adwaitjog.github.io/ Adwait Jog], College of William and Mary (Email: adwait@cs.wm.edu)
+- [http://faculty.cse.tamu.edu/ejkim/ Eun Jung (EJ) Kim], Texas A&M University (Email: ejkim at cs.tamu.edu)
+
+
+== Workshop Program
+~~~
+{}{raw}
+<center>
+<TABLE cellspacing=5 cellpadding=5 border=2 align=CENTER>
+  <tr>
+  <th>  Time</th>
+  <th>  Workshop Agenda (September 9th) </th>
+  <th> Speaker/Authors </th>
+  <th>  Material</th>
+  </tr>
+  <tr bgcolor=cornsilk align=CENTER >
+  <td valign=top> 13:00 - 13:10 &nbsp;</td>
+  <td valign=top> Welcome and Introductions &nbsp;</td>
+  <td valign=top> <a href= "http://adwaitjog.github.io/"> Adwait Jog (William and Mary) </a> and
+  <a href= "http://faculty.cse.tamu.edu/ejkim/"> EJ Kim (Texas A&M University) </a> &nbsp;</td>
+  <td valign=top> <a href="http://insight-archlab.github.io/minmove/minmove-intro.pptx"> (Slides)</a> &nbsp;</td>
+  </tr>
+  </tr>
+  <tr bgcolor=cornsilk align=CENTER >
+  <td valign=top> 13:10 - 14:00 &nbsp;</td>
+  <td valign=top> <font color="red"> Keynote 1: </font> <b> Compute in-situ and in-transit </b> &nbsp;</td>
+  <td valign=top> <a href= "http://users.ece.utexas.edu/~ljohn/"> Lizy Kurian John (UT Austin) </a> &nbsp;</td>
+  <td valign=top> <a href="http://insight-archlab.github.io/minmove/keynote-lizy.pdf"> (Slides)</a>  &nbsp;</td>
+  </tr>
+  </tr>
+  <tr bgcolor=cornsilk align=CENTER >
+  <td valign=top> 14:10 - 15:00 &nbsp;</td>
+  <td valign=top> <font color="red"> Keynote 2: </font> <b> When Moving Data is Expensive: What We can Learn from High Gas Prices </b> &nbsp;</td>
+  <td valign=top> <a href= "https://sites.google.com/site/arpersncsu/"> Yan Solihin (NSF/NCSU) </a> &nbsp;</td>
+  <td valign=top> <a href="http://insight-archlab.github.io/minmove/keynote-solihin.pdf"> (Slides)</a>  &nbsp;</td>
+  </tr>
+  </tr>
+  <tr bgcolor=gray align=CENTER >
+  <td valign=top> 15:00 - 15:30 &nbsp;</td>
+  <td valign=center> <font color="blue"> Coffee Break</font> &nbsp;</td>
+  <td valign=top>  &nbsp;</td>
+  <td valign=top>  &nbsp;</td>
+  </tr>
+  </tr>
+  <tr bgcolor=cornsilk align=CENTER >
+  <td valign=top> 15:30 - 16:20 &nbsp;</td>
+  <td valign=top> <font color="red"> Keynote 3: </font> <b> Toward a More Efficient and Manageable GPGPU Design </b> &nbsp;</td>
+  <td valign=top> <a href= "http://www.engineering.pitt.edu/Jun_Yang/"> Jun Yang (UPitt) </a> &nbsp;</td>
+  <td valign=top> <a href="http://insight-archlab.github.io/minmove/keynote-jun.pdf"> (Slides, TBD) &nbsp;</td>
+  </tr>
+   </tr>
+  <tr bgcolor=cornsilk align=CENTER >
+  <td valign=top> 16:20 - 16:40 &nbsp;</td>
+  <td valign=top> Exploring Non-Uniform Processing In-Memory Architectures &nbsp;</td>
+  <td valign=top> Kishore Punniyamurthy (UT Austin) and Andreas Gerstlauer (UT Austin) &nbsp;</td>
+  <td valign=top> <a href="http://insight-archlab.github.io/minmove/non_uniform_pim_minmove2017.pdf"> (PDF)</a> 
+  <a href="http://insight-archlab.github.io/minmove/non_uniform_pim_minmove2017.pptx"> (Slides)</a> &nbsp;</td>
+  </tr>
+    </tr>
+  <tr bgcolor=cornsilk align=CENTER >
+  <td valign=top> 16:40 - 17:00 &nbsp;</td>
+  <td valign=top> Evaluating a Trade-Off between DRAM and Persistent Memory for 
+  Persistent-Data Placement on Hybrid Main Memory &nbsp;</td>
+  <td valign=top> Satoshi Imamura (Fujitsu Laboratories Ltd.), Mitsuru Sato (Fujitsu Laboratories Ltd.) and Eiji Yoshida
+  (Fujitsu Laboratories Ltd.)  &nbsp;</td>
+  <td valign=top> <a href="http://insight-archlab.github.io/minmove/persistent_dram_data_placement_minmove2017.pdf"> (PDF)</a> <a href="http://insight-archlab.github.io/minmove/persistent_dram_data_placement_minmove2017.pptx"> (Slides)</a>  &nbsp;</td>
+  </tr>
+    </tr>
+  <tr bgcolor=cornsilk align=CENTER >
+  <td valign=top> 17:00 - 17:20 &nbsp;</td>
+  <td valign=top> Opportunities for Processing Near Non-Volatile Memory in Heterogeneous Memory Systems &nbsp;</td>
+  <td valign=top> Zhenhong Liu (UIUC), Amin Farmahini-Farahani (AMD) and Nuwan Jayasena (AMD) &nbsp;</td>
+  <td valign=top> <a href="http://insight-archlab.github.io/minmove/nvm_pim_minmove2017.pdf"> (PDF)</a> 
+  <a href="http://insight-archlab.github.io/minmove/nvm_pim_minmove2017_talk.pdf"> (Slides) &nbsp;</td>
+  </tr>
+</TABLE>
+
+</center>
+~~~
+
+== Keynote 1
+*Speaker: Lizy Kurian John (UT Austin)*
+
+*Title:* Compute in-situ and in-transit     
+
+*Abstract:* Moving data consumes time and energy. Computation can potentially be made more efficient by computing where the data is located (Computing In Situ) however there are several challenges in determining which pieces of data should stay where, and what kinds of compute can be integrated with various memory and cache layers.  Some data movement is still essential and computation can also be accelerated by computing while data is being moved (Computing in Transit). This talk presents (i) various in-situ computing capabilities that will comprise both processing in or near main memory as well as computing within on-chip caches and memory close to the cores;  (ii) novel in-transit compute capabilities that will enable cutting down on and in many cases completely eliminating unnecessary roundtrip data transfers by processing of data transparently as it is transferred between main memory and local compute cores or across the cache hierarchies.
+
+*Bio:* Lizy Kurian John  is B. N. Gafford Professor in the Electrical and Computer Engineering at UT Austin. She received her Ph. D in Computer Engineering from the Pennsylvania State University. Her research interests include workload characterization, performance evaluation, architectures with emerging memory technologies such as die-stacked DRAM, and high performance processor architectures for emerging workloads. She is recipient of NSF CAREER award, UT Austin Engineering Foundation Faculty Award,  Halliburton, Brown and Root Engineering Foundation Young Faculty Award  2001, University of Texas Alumni Association (Texas Exes) Teaching Award 2004, The Pennsylvania State University Outstanding Engineering Alumnus 2011, etc.  She has coauthored a book on Digital Systems Design using VHDL (Cengage Publishers, 2007, 2017),  a book on Digital Systems Design using Verilog (Cengage Publishers, 2014)  and has edited 4 books including a book on Computer Performance Evaluation and Benchmarking.  She holds 10 US patents and is a Fellow of IEEE.
+
+
+== Keynote 2
+*Speaker: Yan Solihin (NSF/NCSU)*
+
+*Title:* When Moving Data is Expensive: What We can Learn from High Gas Prices    
+
+*Abstract:* 
+Processor needs data to be transported from memory in order to compute. Due to various trends in server architectures, some data will be located quite far away from the processor. In this talk, I will discuss strategies that can be deployed to reduce the cost of data transportation. Analogies can be found from the 2006-2008 time period when gas prices were high in the US, making people transportation expensive. Lessons from high gas prices can be applied to deal with expensive data transportation. 
+
+*Bio:*
+Yan Solihin is a Program Director at the Division of Computer and Network Systems (CNS) at the National Science Foundation, managing Computer Systems Research (CSR), Secure and Trustworthy Cyberspace (SaTC), Scalability and Parallelism in the eXtreme (SPX), and NSF/Intel Partnership on Foundational Microarchitecture Research (FoMR). He is also a Professor of Electrical and Computer Engineering at North Carolina State University. 
+
+He obtained his B.S. degree in computer science from Institut Teknologi Bandung in 1995, B.S. degree in Mathematics from Universitas Terbuka Indonesia in 1995, M.A.Sc degree in computer engineering from Nanyang Technological University in 1997, and M.S. and Ph.D. degrees in computer science from the University of Illinois at Urbana-Champaign in 1999 and 2002. He is a recipient of 2010 and 2005 IBM Faculty Partnership Award, 2004 NSF Faculty Early Career Award, and 1997 AT&T Leadership Award. He is listed in the HPCA Hall of Fame. He is a senior member of the IEEE. His research interests include computer architecture, memory hierarchy design, non-volatile memory architecture, programming models, and workload cloning. He has published more than 90 papers in computer architecture and performance modeling. He has released several software packages to the public: ACAPP - a cache performance model toolset, HeapServer - a secure heap management library, Scaltool - parallel program scalability pinpointer, and Fodex - a forensic document examination toolset. He has written two graduate-level textbooks, including Fundamentals of Parallel Multicore Architecture, CRC Press, 2015.
+
+== Keynote 3
+*Speaker: Jun Yang, UPitt*
+
+*Title:* Toward a More Efficient and Manageable GPGPU Design     
+
+*Abstract:* Today’s applications are increasingly compute-intensive and data-intensive at the same time. Computer systems are challenged by the requirement of high processing capability and data handling capability. One of the most critical issues is the frequent and large volume of data movement across system stack. Excessive data movements hog system performance and consume extra energy unnecessarily. It is therefore crucial to combat this challenge and minimize its impact on performance and energy. In this talk, mitigating the impact of data movement is discussed in the context of GPGPU, a general purpose parallel accelerator. An effective mechanism to mask the influence of data movement is to utilize the parallel feature of the architecture and overlap it with computing so that delay caused by moving data around is hidden behind computing cycles. In the effort of reducing the volume of data movement, and hence reducing energy consumption, the observation of redundant data removal is the key to architecture innovations. We introduce new architecture features that not only lessen the data movement overhead but also enable better manageability of the accelerator resources.
+
+*Bio:* Jun Yang is a Professor of Electrical and Computer Engineering Department at the University of Pittsburgh. She received her Ph.D. from The University of Arizona, 2002, and became an assistant professor at UC Riverside (2002-2006) prior to joining University of Pittsburgh. Jun’s research is in the broad area of computer architecture and her recent focuses include GPU designs, emerging memory technologies, interconnection networks, 3D integration, and power and thermal management techniques. Jun is included in HPCA Fall of Fame, is a recipient of NSF CAREER award in 2008, IEEE MICRO Top Picks award in 2010, and best paper awards of ISLPED 2013 and ICCD 2007.
+
+
+== Overview
+The goal of achieving exascale performance under stringent power budget is important, exciting, and challenging. One of the biggest impediments in achieving this goal is the excessive data movement across different levels of the memory hierarchy.  In this workshop, we intend to discuss innovative ways to reduce this data movement in a variety of architectures (including CPUs, GPUs, handhelds, data centers, IoT, accelerators etc.). We welcome all novel submissions that describe hardware, software, or hardware-software co-design techniques to reduce the data movement. 
+
+== Scope 
+Any idea/technique that can help in reducing the data movement is appropriate for this workshop.
+Some topics (but not limited to) are:
+
+- Near Data Processing  (e.g., near caches or memory or storage devices)
+- In-Memory Computing (e.g., in caches or memory or storage devices)
+- Approximate Computing (e.g., load value approximations)
+- Cache/DRAM Locality Optimizations
+- Data Compression Techniques
+- Emerging Memory Technologies (e.g., STT-RAM, Memristor)
+- Non-traditional Architectures (e.g., Quantum Architectures, Automata Processor)
+- Interconnects (e.g., on-chip, off-chip, Ethernet, interposer system, flexible interconnects for FPGA) 
+- Programming and Language Support for Minimizing Data Movement 
+
+== Submission 
+- Submission site is hosted [https://easychair.org/conferences/?conf=minmove2017 here].
+- Please use the [http://www.acm.org/publications/proceedings-template standard LaTeX or Word ACM templates]. The length (including references and other material) of the paper should not exceed *6* 
+pages, with minimum length of 2 pages. 
+- If you are interested in this workshop, please send an empty email to minmove@googlegroups.com to subscribe the google group. You will receive the latest announcements.
+
+== Proceedings
+An online version of all the papers will be available on the workshop website. This choice allows authors to use feedback from the workshop to extend their work for future publication. 
+
+== Important Dates
+- Deadline: Aug 14th, 2017 (Early submissions are encouraged for a possible earlier notification.)
+- Camera Ready Deadline: Sept 2, 2017
+- Workshop Date: Sept 9th, 2017 
+
+
+== Program Committee
+- Murali Annavaram (USC)
+- Rajeev Balasubramonian (Utah)
+- Reetuparna Das (UMich)
+- Lizy Kurian John (UT Austin)
+- David Kaeli (Northeastern)
+- Onur Kayiran (AMD)
+- Hyesoon Kim (Gatech)
+- Asit Mishra (Intel)
+- Lawrence Rauchwerger (Texas A&M)
+- Sudhakar Yalamanchalli (Gatech) 
+
+== Questions?
+- Please contact the organizers if you have any questions. Please
+email us with the subject prefixed by the tag "Min-Move:". For example, "Min-Move:<your-subject-here>"
