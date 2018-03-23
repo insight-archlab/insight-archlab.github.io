@@ -100,11 +100,13 @@ paper awards and two IEEE Micro Top Picks.
 == Keynote 2
 *Speaker: Reetuparna Das, UMich*
 
-*Title:*   
+*Title:* In-Memory Automata Processing
 
 *Abstract:* 
+Finite State Automata is widely used to accelerate pattern matching in many emerging application domains. Conventional CPUs and compute-centric accelerators are bottlenecked by memory bandwidth and irregular memory access patterns in automata processing. In this talk, I will present a new hardware design that allows automata which are known to be embarrassing sequential, to be executed in parallel in DRAM-based in-memory accelerator. I will also present Cache Automaton, which repurposes conventional last-level cache architecture for automata processing.
 
 *Bio:*
+Reetuparna Das is an Assistant Professor at U. Michigan. Prior to this, she was a research scientist at Intel Labs, and the researcher-in-residence for the C-FAR center. She is an expert in computer architecture. She has authored over 45 papers, and filed 7 patents. She has an IEEE Top Picks award, an NSF CAREER award, and IEEE/ACM MICRO Hall of Fame award. Her recent work on in-memory design named Compute Caches received the best Demo award in C-FAR. She also serves as the CEO of a precision medicine start-up, Sequal Inc.
 
 == Keynote 3
 *Speaker: Alessandro Morari, IBM*
