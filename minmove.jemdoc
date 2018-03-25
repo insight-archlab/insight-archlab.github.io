@@ -30,7 +30,7 @@
   <td valign=top> 08:40AM - 09:30AM &nbsp;</td>
   <td valign=top> <font color="red"> Keynote 1: </font> <b> Untrodden Paths for Near Data Processing </b> &nbsp;</td>
   <td valign=top> <a href= "http://www.cs.utah.edu/~rajeev/"> Rajeev Balasubramonian (Univ. of Utah) </a> &nbsp;</td>
-  <td valign=top> <a href="http://insight-archlab.github.io/minmove/TBD.min_move_rajeev.pptx"> (Slides, PPTX)</a>  &nbsp;</td>
+  <td valign=top> <a href="http://insight-archlab.github.io/minmove/min_move_rajeev.pptx"> (Slides, PPTX)</a>  &nbsp;</td>
   </tr>
   </tr>
   <tr bgcolor=cornsilk align=CENTER >
@@ -78,7 +78,7 @@
 == Keynote 1
 *Speaker: Rajeev Balasubramonian, Utah*
 
-*Title:*   Untrodden Paths for Near Data Processing
+*Title:* Untrodden Paths for Near Data Processing
 
 *Abstract:* Near Data Processing (NDP) can unlock large savings in data movement costs.
 While much of the initial NDP spotlight has focused on 3D-stacked
@@ -86,7 +86,6 @@ memory+logic devices, in this talk, we highlight other opportunities
 that deserve more attention: (i) accelerators that leverage in-situ computing,
 (ii) feature-rich DIMMs that serve as cheap alternatives to 3D-stacked devices,
 and (iii) near-data implementations of privacy and security features.
-
 
 *Bio:* Rajeev Balasubramonian is a Professor at the School of Computing, University
 of Utah.  He received his Ph.D. in 2003 from the University of Rochester.  His
