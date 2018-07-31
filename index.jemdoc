@@ -6,14 +6,14 @@
     <div class="navbar navbar-inverse" role="navigation">
       <div class="container">
           <ul class="nav navbar-nav">
-            <li class="active"><a href="http://adwaitjog.github.io/index.html">Home</a></li>
-            <li class="active"><a href="http://adwaitjog.github.io/pubs.html">Publications</a></li>
-            <li class="active"><a href="http://adwaitjog.github.io/talks.html">Talks</a></li>
-            <li class="active"><a href="http://adwaitjog.github.io/software.html">Software</a></li>
-            <li class="active"><a href="http://adwaitjog.github.io/teaching.html">Teaching</a></li>
-            <li class="active"><a href="http://adwaitjog.github.io/service.html">Service</a></li>
-            <li class="active"><a href="http://adwaitjog.github.io/misc.html">Misc.</a></li>
-            <li class="active"><a href="http://insight-archlab.github.io/index.html">Research Group</a></li>
+            <li class="active"><a href="https://adwaitjog.github.io/index.html">Home</a></li>
+            <li class="active"><a href="https://adwaitjog.github.io/pubs.html">Publications</a></li>
+            <li class="active"><a href="https://adwaitjog.github.io/talks.html">Talks</a></li>
+            <li class="active"><a href="https://adwaitjog.github.io/software.html">Software</a></li>
+            <li class="active"><a href="https://adwaitjog.github.io/teaching.html">Teaching</a></li>
+            <li class="active"><a href="https://adwaitjog.github.io/service.html">Service</a></li>
+            <li class="active"><a href="https://adwaitjog.github.io/misc.html">Misc.</a></li>
+            <li class="active"><a href="https://insight-archlab.github.io/index.html">Research Group</a></li>
           </ul>
       </div>
     </div>
@@ -24,11 +24,11 @@ The goal of our lab is to generate insights, which would help in architecting fu
 
 
 == Faculty
-- [http://adwaitjog.github.io/ Adwait Jog]
+- [https://adwaitjog.github.io/ Adwait Jog]
 
 == Current Students
 I have been very lucky to be working with the following fantastic students:
-- [http://massemibrahim.github.io/ Mohamed Ibrahim] (Ph.D., Jan 2016 --)
+- [https://massemibrahim.github.io/ Mohamed Ibrahim] (Ph.D., Jan 2016 --)
 - [https://woodun.github.io/ Haonan Wang] (Ph.D., Jan 2016 --)
 - [http://www.cs.wm.edu/~gakadam/ Gurunath Kadam] (Ph.D., Aug 2016 --)
 - [http://www.cs.wm.edu/~hyliu/ Hongyuan Liu] (Ph.D., Jan 2017 --)
