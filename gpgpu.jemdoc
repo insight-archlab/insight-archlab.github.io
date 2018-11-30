@@ -7,7 +7,9 @@
 - [https://okayiran.github.io/ Onur Kayiran], AMD Research (Email: ejkim at cs.tamu.edu)
 
 == Overview
-The goal of this workshop is to provide a forum to discuss new and emerging general-purpose programming architectures, environments, and platforms, as well as evaluate applications that have been able to harness the horsepower provided by these platforms. This year's work is particularly interested in security, new heterogeneous architecture/platforms, new forms of concurrency, and novel/irregular applications that can leverage these platforms. Papers are being sought on many aspects of GPUs, including (but not limited to):
+The goal of this workshop is to provide a 
+forum to discuss new and emerging general-purpose 
+programming architectures, environments, and platforms, as well as evaluate applications that have been able to harness the horsepower provided by these platforms. This year's work is particularly interested in security, new heterogeneous architecture/platforms, new forms of concurrency, and novel/irregular applications that can leverage these platforms. Papers are being sought on many aspects of GPUs, including (but not limited to):
  
 - GPU applications
 - GPU programming environments
@@ -41,7 +43,7 @@ The goal of this workshop is to provide a forum to discuss new and emerging gene
 == Questions?
 - Please contact the organizers if you have any questions. 
 
-==
+== History
 GPGPU workshop is being held every year since 2007 when it was held at Northeastern University. 
 Over 150 people attended this meeting. In 2008, the meeting was held with ASPLOS 2008.  
 This trend continued and the GPGPU workshop was held with ASPLOS for the next 6 years.
