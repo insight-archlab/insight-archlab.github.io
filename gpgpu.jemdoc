@@ -13,9 +13,10 @@ programming architectures, environments, and platforms, as
 well as evaluate applications that have been able to harness 
 the horsepower provided by these platforms. This year's work 
 is particularly interested in security, new heterogeneous 
-architecture/platforms, new forms of concurrency, and 
-novel/irregular applications that can leverage these platforms. 
-Papers are being sought on many aspects of GPUs/accelerators, including (but not limited to):
+architecture or platforms, new forms of concurrency, and 
+novel or irregular applications that can leverage these platforms. 
+Papers are being sought on many aspects of GPUs or accelerators, 
+including (but not limited to):
  
 - GPU applications
 - GPU programming environments
