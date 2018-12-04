@@ -28,9 +28,12 @@ including (but not limited to):
 - GPU reliability
 - GPU benchmarking/measurements
 - Heterogeneous architectures/platforms
-- GPU security
-- Non-von Neumann architectures
-- Domain-specific architectures
+- GPU security *\<span style=\"color: red\"\> (NEW) \<\/span\>* 
+- Non-von Neumann architectures *\<span style=\"color: red\"\> (NEW) \<\/span\>* 
+- Domain-specific architectures *\<span style=\"color: red\"\> (NEW) \<\/span\>* 
+
+
+
 
 == Important Dates
 - Papers due: January 21, 2019 
