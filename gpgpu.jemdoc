@@ -32,7 +32,6 @@ including (but not limited to):
 - Non-von Neumann architectures *\<span style=\"color: red\"\> (NEW) \<\/span\>* 
 - Domain-specific architectures *\<span style=\"color: red\"\> (NEW) \<\/span\>* 
 
-
 == Important Dates
 - Papers due: January 21, 2019 
 - Notification: February 18, 2019 
@@ -55,10 +54,13 @@ Microsoft Word, and LaTeX can be found [here http://www.sigplan.org/authorInform
 == Questions?
 - Please contact the organizers if you have any questions. 
 
-== History
+== History and Impact
 GPGPU workshop is being held every year since 2007 when it was held at 
 Northeastern University. In 2008, the meeting was held with ASPLOS 2008.  
 This trend continued and the GPGPU workshop was held with ASPLOS for the 
 next 6 years. From 2014 and 2018, GPGPU workshop was co-located with PPoPP. 
-Again, this year, GPGPU workshop returns to ASPLOS. 
+Again, this year, GPGPU workshop returns to ASPLOS. The average citation 
+count (as per Google Scholar), for a GPGPU workshop paper, is currently 
+37.5, where there have been 8 influential papers with 100+ citations.
+
 
