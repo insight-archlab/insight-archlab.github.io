@@ -55,14 +55,15 @@ Microsoft Word, and LaTeX can be found [http://www.sigplan.org/authorInformation
 - Please contact the organizers if you have any questions. 
 
 == History and Impact
-GPGPU workshop was previously organized successfully by David Kaeli and 
-John Cavazos for 11 years. It was first held in 2007 at
-Northeastern University. In 2008, the meeting was held with ASPLOS 2008.  
+David Kaeli (Northeastern) and John Cavazos (Delaware) very successfully
+organized the previous versions of the GPGPU workshop. GPGPU workshop was 
+first held in 2007 at Northeastern University. In 2008, the meeting was held with ASPLOS 2008.  
 This trend continued and the GPGPU workshop was held with ASPLOS for the 
 next 6 years. From 2014 and 2018, GPGPU workshop was co-located with PPoPP. 
 Again, this year, GPGPU workshop returns to ASPLOS. The average citation 
 count (as per Google Scholar), for a GPGPU workshop paper, is currently 
 37.5, where there have been 8 influential papers with 100+ citations.
+
 
 == Previous versions of the GPGPU workshop:
 - [https://gpgpu11.000webhostapp.com/ GPGPU 11 (2018)] [https://dblp.org/db/conf/ppopp/gpgpu2018 DBLP]
@@ -75,6 +76,8 @@ count (as per Google Scholar), for a GPGPU workshop paper, is currently
 - [https://dblp.org/db/conf/asplos/gpgpu2011 GPGPU 04 (2011)] [https://dblp.org/db/conf/asplos/gpgpu2011 DBLP]
 - [https://dblp.org/db/conf/asplos/gpgpu2010 GPGPU 03 (2010)] [https://dblp.org/db/conf/asplos/gpgpu2010 DBLP]
 - [https://dblp.org/db/conf/asplos/gpgpu2009 GPGPU 02 (2009)] [https://dblp.org/db/conf/asplos/gpgpu2009 DBLP]
+- GPGPU 01 (2008) (DBLP)
+
 
 
 
