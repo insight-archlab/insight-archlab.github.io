@@ -5,6 +5,12 @@
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 -->
 <html>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta content="text/html; charset=iso-8859-2" http-equiv="Content-Type">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<style>
+.mySlides {display:none;}
+</style>
 <head>
 	<title>GPGPU 2019 @ASPLOS</title>
 	<meta charset="utf-8" />
@@ -54,10 +60,14 @@
 							<li>GPU security <strong><font color="red">(NEW)</font></strong></li>
 							<li>Non-von Neumann architectures <strong><font color="red">(NEW)</font></strong></li>
 							<li>Domain-specific architectures <strong><font color="red">(NEW)</font></strong></li>
+						</ul>
 						</div>
-						<!-- <span class="image object">
-							<img src="gpgpu-images/pic10.jpg" alt="" />
-						</span> -->
+
+						<span class="image object">
+  							<img class="mySlides" src="gpgpu-images/img1.jpg">
+  							<img class="mySlides" src="gpgpu-images/img2.jpg">
+  							<img class="mySlides" src="gpgpu-images/img3.jpg">
+						</span>
 					</section>
 					<section id="dates">
 						<header id="header">
@@ -97,14 +107,39 @@
 									<!-- </section> -->
 									<section id="banner">
 										<div class="content">
-											<ul>
+											<table style="width:100%" >
+												<col style="width:25%">
+			<col style="width:25%">
+			<col style="width:25%">
+  <tr>
+    <td><a href="#" class="image"><img src="gpgpu-images/adwait.JPG" alt=""  data-position="center center"/></a></td>
+    <td><a href="#" class="image"><img src="gpgpu-images/onur.jpg" alt=""  data-position="center center"  /></a></td> 
+    <td><a href="#" class="image"><img src="gpgpu-images/ashutosh.jpg" alt="" data-position="center center"  /></a></td>
+  </tr>
+  <tr>
+    <td><a href="http://adwaitjog.github.io/" target=&ldquo;blank&rdquo;>Adwait Jog (co-chair)</a> </td>
+    <td><a href="https://okayiran.github.io/" target=&ldquo;blank&rdquo;>Onur Kayiran (co-chair)</a></td>
+    <td><a href="https://ashutoshpattnaik.github.io/" target=&ldquo;blank&rdquo;>Ashutosh Pattnaik (submission/web chair)</a></td>
+  </tr>
+    <tr>
+    <td>College of William &amp; Mary</td>
+    <td>AMD Research</td>
+    <td>Penn State</td>
+  </tr>
+  <tr>
+    <td>Email: adwait@cs.wm.edu</td>
+    <td>Email: onur.kayiran@amd.com</td>
+    <td>Email: ashutosh@psu.edu</td>
+  </tr>
+</table>
+											<!-- <ul>
 												<li><a href="http://adwaitjog.github.io/" target=&ldquo;blank&rdquo;>Adwait Jog (co-chair)</a>, College of William &amp; Mary (Email: adwait@cs.wm.edu)
 												</li>
 												<li><a href="https://okayiran.github.io/" target=&ldquo;blank&rdquo;>Onur Kayiran (co-chair)</a>, AMD Research (Email: onur.kayiran@amd.com)
 												</li>
 												<li><a href="https://ashutoshpattnaik.github.io/" target=&ldquo;blank&rdquo;>Ashutosh Pattnaik (submission/web chair)</a>, Penn State
 												</li>
-											</ul>
+											</ul> -->
 											<!-- <h2>Questions?</h2> -->
 											Please contact the organizers if you have any questions.
 										</div>
@@ -301,5 +336,21 @@
 					<script src="gpgpu-assets/js/util.js"></script>
 					<script src="gpgpu-assets/js/main.js"></script>
 
+<script>
+var myIndex = 0;
+carousel();
+
+function carousel() {
+    var i;
+    var x = document.getElementsByClassName("mySlides");
+    for (i = 0; i < x.length; i++) {
+       x[i].style.display = "none";  
+    }
+    myIndex++;
+    if (myIndex > x.length) {myIndex = 1}    
+    x[myIndex-1].style.display = "block";  
+    setTimeout(carousel, 4000); // Change image every 2 seconds
+}
+</script>
 				</body>
 				</html>
